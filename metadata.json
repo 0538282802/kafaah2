@@ -1,0 +1,8 @@
+{
+  "name": "Kafa'a Plus - Home Maintenance",
+  "description": "A comprehensive home maintenance platform (Kafa'a Plus) with interfaces for customers, technicians, admins, and supervisors, featuring AI-powered cost estimation and map-based tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
